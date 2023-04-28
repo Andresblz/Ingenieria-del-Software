@@ -63,7 +63,7 @@
         - [Problemas con los Requisitos](#problemas-con-los-requisitos)
         - [Requisitos No Funcionales](#requisitos-no-funcionales)
     - [Especificación de Requisitos del Software](#especificación-de-requisitos-del-software)
-    - [MDB: Una Metodología de Elicitación de Requisitos](#mdb:-una-metodología-de-elicitación-de-requisitos)
+    - [MDB: Una Metodología de Elicitación de Requisitos](#mdb-una-metodología-de-elicitación-de-requisitos)
     - [Vista de Casos de Uso](#vista-de-casos-de-uso)
         - [Actores](#actores)
         - [Casos de Uso](#casos-de-uso)
